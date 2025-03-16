@@ -4,8 +4,12 @@ MUST&amp;P-SRL: Multi-lingual and Unified Syllabification in Text and Phonetic D
 Published at EMNLP 2023:
 https://aclanthology.org/2023.emnlp-industry.8/
 
-Video explanation on the conference platform:
-https://underline.io/events/431/posters/16516/poster/89955-mustandp-srl-multi-lingual-and-unified-syllabification-in-text-and-phonetic-domains-for-speech-representation-learning?tab=Video
+
+A talk about this work at [ISCA SIG-SLATE](https://sites.google.com/view/sigslate) webinars:
+
+[![Alt text](https://img.youtube.com/vi/7_pQ0aQwg-w/0.jpg)](https://www.youtube.com/watch?v=7_pQ0aQwg-w&ab_channel=ISCASIGSLaTE)
+
+Video explanation on the [conference platform](https://underline.io/events/431/posters/16516/poster/89955-mustandp-srl-multi-lingual-and-unified-syllabification-in-text-and-phonetic-domains-for-speech-representation-learning?tab=Video).
 
 Arxiv preprint: https://arxiv.org/abs/2310.11541v1
 
